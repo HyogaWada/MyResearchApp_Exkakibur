@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a8d4e468de7e38f469a1d78017643191
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lineObj: {instanceID: 0}
+  - lineMaterial: {instanceID: 0}
+  - sound_point: {instanceID: 0}
+  - sound_straight: {instanceID: 0}
+  - sound_curve: {instanceID: 0}
+  - particle: {fileID: 7595018225567567099, guid: 7bae9ed397414814e92ceb369615bc2b, type: 3}
+  - curveparticle: {fileID: 7595018225567567099, guid: af24de8ade2b9f441b329d46341094ce, type: 3}
+  - straightparticle: {fileID: 7595018225567567099, guid: 32ca3fd9f7c50dd41abe59f714fd2f54, type: 3}
+  - middleDot: {fileID: 7595018225567567099, guid: 7bae9ed397414814e92ceb369615bc2b, type: 3}
+  - effectPrefab: {fileID: 8257275114183410445, guid: 176d3cc91048b6d46a753fb13b72abb2, type: 3}
+  - linePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
